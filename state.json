@@ -1,0 +1,3 @@
+{
+	"payload": "[{\"type\":\"RESET\"},{\"type\":\"DECREMENTBYTEN\"},{\"type\":\"RESET\"},{\"type\":\"INCREMENTBYTEN\"},{\"type\":\"RESET\"},{\"type\":\"\"},{\"type\":\"\"},{\"type\":\"SWITCH\"},{\"type\":\"SWITCH\"},{\"type\":\"SWITCH\"},{\"type\":\"SWITCH\"},{\"type\":\"SWITCH\"},{\"type\":\"SWITCH\"}]"
+}
